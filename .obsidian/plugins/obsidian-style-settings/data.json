@@ -1,0 +1,7 @@
+{
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
+  "encore-settings@@encore-disable-grain": true,
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "encore-settings@@blur-amount": "encore-blur-less"
+}
