@@ -11,10 +11,12 @@
             "id": "f6f77c2c0005541b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Biology/Mitochondria.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mitochondria"
             }
           }
         ]
@@ -168,6 +170,11 @@
   },
   "active": "f6f77c2c0005541b",
   "lastOpenFiles": [
+    "Biology/NCERT.pdf",
+    "Biology/Mitochondria.pdf",
+    "Biology/Mitochondria.pdf.crdownload",
+    "Biology",
+    "README.md",
     "Earth Sciences/Untitled",
     "Earth Sciences"
   ]
