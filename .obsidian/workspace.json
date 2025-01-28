@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1282748110e96f08",
+        "id": "f5d1c35d30dedb57",
         "type": "tabs",
         "children": [
           {
-            "id": "932f8b017b8a68f7",
+            "id": "516b40420980f0dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Maths/Slides/Lecture-6.pdf"
+                "file": "Maths/Slides/Lecture-7.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture-6"
+              "title": "Lecture-7"
             }
           }
         ]
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,18 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "932f8b017b8a68f7",
+  "active": "516b40420980f0dc",
   "lastOpenFiles": [
     "Maths/Slides/Lecture-6.pdf",
+    "Biology/Cell -  The Unit of Life.pdf",
+    "Biology/Endoplasmic reticulum and Golgi complex.pdf",
+    "Maths/Slides/Lecture-7.pdf",
+    "Maths/Slides/Lecture-7.pdf.crdownload",
     "Maths/Slides/Lecture-6.pdf.crdownload",
     "Maths/Problem Sets/Tutorial-2(Jan11).pdf",
     "Maths/Problem Sets/Tutorial-1(Jan4).pdf",
     "Biology/Mitochondria.pdf",
-    "Biology/NCERT.pdf",
     "Biology/Mitochondria.pdf.crdownload",
     "Biology",
-    "README.md",
-    "Earth Sciences/Untitled",
-    "Earth Sciences"
+    "README.md"
   ]
 }
