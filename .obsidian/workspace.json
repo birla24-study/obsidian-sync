@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55422704dc29cc63",
+        "id": "1282748110e96f08",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f77c2c0005541b",
+            "id": "932f8b017b8a68f7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Maths/Problem Sets/Tutorial-1(Jan4).pdf"
+                "file": "Maths/Slides/Lecture-6.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tutorial-1(Jan4)"
+              "title": "Lecture-6"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f77c2c0005541b",
+  "active": "932f8b017b8a68f7",
   "lastOpenFiles": [
+    "Maths/Slides/Lecture-6.pdf",
+    "Maths/Slides/Lecture-6.pdf.crdownload",
+    "Maths/Problem Sets/Tutorial-2(Jan11).pdf",
+    "Maths/Problem Sets/Tutorial-1(Jan4).pdf",
     "Biology/Mitochondria.pdf",
     "Biology/NCERT.pdf",
     "Biology/Mitochondria.pdf.crdownload",
